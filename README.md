@@ -1,3 +1,9 @@
+Here is the link to my youtube video demo:
+
+https://youtu.be/chNxyz4ofvY
+https://youtu.be/chNxyz4ofvY
+
+
 Changes Based on Lecturer Feedback
 The following improvements were made during the development of Part 2, directly addressing the feedback received on the Part 1 submission.
 1. Version Control & Commit History
@@ -16,4 +22,18 @@ Improvement Made:
 The GUI was significantly enhanced beyond the initial wireframes to create a more polished and user-friendly experience specific to managing claims.
 Layout: A consistent and professional layout template was applied across all views, featuring a clear navigation menu for easy access to "Lecturers," "All Claims," and "New Claim" sections.
 User Experience (UX): The claims list is presented in a clean, styled table with clear column headings (Claim ID, Lecturer Name, Date, Amount, Status). The status is visually distinct (e.g., using coloured badges). Forms for submitting new claims are intuitive, using dropdowns to select the lecturer and claim type, date pickers, and clear input validation. Action buttons (Submit, Save, Cancel) are prominent, and confirmation messages provide feedback upon successful actions.
+Summary of Enhancements
+Part 1 Feedback Area
+Part 2 Implementation & Improvement
+Infrequent Commits
+Adopted a frequent, feature-driven commit strategy with clear, descriptive messages.
+Design Depth
+Validated and refined the design into a complete schema for managing lecturers and their salary claims.
+Class Diagram
+Evolved the diagram into accurate code models, fully capturing the claim lifecycle and status tracking.
+
+
+
+
+
 
